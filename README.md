@@ -22,6 +22,6 @@ they are all located in the "Blocks" folder. There we can find the SRAM memories
 
 
 <h2>Simulation</h2>
-<h4>We use Model-Sim-Altera in Quartus II software</h4>
+<h4>We used Model-Sim-Altera in Quartus II software</h4>
 
 ![project_schematic](https://github.com/DylanEstrella/SDII_RAM_DATA/blob/main/IMG/Simulation.png)
