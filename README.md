@@ -17,11 +17,11 @@ they are all located in the "Blocks" folder. There we can find the SRAM memories
 
 <h2>Complete System:</h2>
 
-![project_schematic](https://github.com/DylanEstrella/SDII_RAM_DATA/blob/main/IMG/Circuit.BMP)
+![project_schematic](https://github.com/DylanEstrella/SDII_RAM_DATA/blob/main/IMG/Circuit.png)
 
 
 
 <h2>Simulation</h2>
 <h4>We use Model-Sim-Altera in Quartus II software</h4>
 
-![project_schematic](https://github.com/DylanEstrella/SDII_RAM_DATA/blob/main/IMG/Simulation.BMP)
+![project_schematic](https://github.com/DylanEstrella/SDII_RAM_DATA/blob/main/IMG/Simulation.png)
